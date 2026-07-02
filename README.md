@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.14-blue)
+![FastAPI](https://img.shields.io/badge/FastAPI-0.138-green)
+![REST API](https://img.shields.io/badge/API-REST-orange)
+![GitHub](https://img.shields.io/badge/GitHub-Project-black)
+
 # Employee Management API
 
 A RESTful Employee Management API built with Python and FastAPI.
