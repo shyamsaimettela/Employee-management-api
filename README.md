@@ -1,4 +1,4 @@
-# 🚀 Employee Management API
+#  Employee Management API
 ![Python](https://img.shields.io/badge/Python-3.14-blue?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.138-009688?logo=fastapi&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-2.13-E92063)
@@ -9,7 +9,7 @@
 
 
 A RESTful Employee Management API built using **Python** and **FastAPI**. This project demonstrates CRUD (Create, Read, Update, Delete) operations through REST API endpoints and serves as my first backend development project.
-# 🚀 Employee Management API
+
 
 
 A RESTful Employee Management API built using **Python** and **FastAPI**.
